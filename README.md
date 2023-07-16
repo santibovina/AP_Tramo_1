@@ -1,4 +1,4 @@
-<image src="/untitled-3-01_2.png" alt="banner_ap">
+<image src="/banner-ok-argentina-programa.jpg">
 
 
 # AP_Tramo_1
